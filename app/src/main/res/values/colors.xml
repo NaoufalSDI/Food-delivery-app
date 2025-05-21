@@ -7,9 +7,9 @@
     <color name="black">#FF000000</color>
     <color name="transparentBlue">#B2AADCFA</color>
     <color name="lightBlue">#4EC1FF</color>
-    <color name="mainColor">#FF8D36</color>
+    <color name="mainColor">#FF785B</color>
     <color name="mediumBlue">#0F80FD</color>
     <color name="mediumGreen">#70D43B</color>
-    <color name="errorColor">#FF4444</color>
+    <color name="errorColor">#FF2D2D</color>
     <color name="helperTextsColor">#CC737992</color>
 </resources>
